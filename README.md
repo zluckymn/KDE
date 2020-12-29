@@ -9,7 +9,7 @@
  
 理论基础
 核密度估计的核心公式如下：
-![avatar](https://github.com/zluckymn/KDE/blob/main/1.png,size_16,color_FFFFFF)
+![avatar](https://github.com/zluckymn/KDE/blob/main/1.png)
 
 在这里插入图片描述
 ![avatar](https://github.com/zluckymn/KDE/blob/main/2.png)
